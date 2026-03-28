@@ -7,12 +7,7 @@
 ---
 
 ## Screenshots
-
-<!-- Add your screenshots here -->
-<!-- Example: -->
-<!-- | Home | Products | History | Journal | -->
-<!-- |:---:|:---:|:---:|:---:| -->
-<!-- | ![Home](screenshots/home.png) | ![Products](screenshots/products.png) | ![History](screenshots/history.png) | ![Journal](screenshots/journal.png) | -->
+![Uploading Simulator Screenshot - iPhone 17 - 2026-03-28 at 16.58.18.png…]()
 
 ---
 
@@ -221,11 +216,6 @@ All emission factors and eco-tips are sourced from published, peer-reviewed, or 
 | Nature Sustainability | Remote work emission savings |
 | European Commission JRC | Heating & thermostat studies |
 
----
-
-## License
-
-This project was created for the **Apple Swift Student Challenge**.
 
 ---
 
