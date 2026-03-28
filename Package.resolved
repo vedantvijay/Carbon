@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "animatetext",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jasudev/AnimateText.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0f478496bb3d8931ae3316c140dfef786434d68d"
+      }
+    }
+  ],
+  "version" : 2
+}
