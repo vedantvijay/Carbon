@@ -8,7 +8,7 @@
 
 ## Screenshots
 
-<img width="110" height="300" alt="Simulator Screenshot - iPhone 17 - 2026-03-28 at 16 58 18" src="https://github.com/user-attachments/assets/6a89b698-d96a-4695-9d3e-3c0bb0e3eba7" />
+<img width="200" height="550" alt="Simulator Screenshot - iPhone 17 - 2026-03-28 at 16 58 18" src="https://github.com/user-attachments/assets/6a89b698-d96a-4695-9d3e-3c0bb0e3eba7" />
 
 
 ---
