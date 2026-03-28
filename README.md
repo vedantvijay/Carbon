@@ -6,8 +6,9 @@
 
 ---
 
-## Screenshots
-![Uploading Simulator Screenshot - iPhone 17 - 2026-03-28 at 16.58.18.png…]()
+## Screens
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-03-28 at 16 58 18" src="https://github.com/user-attachments/assets/5c1b7095-9dda-4f2d-bc0d-1bf2136efdb3" />
+
 
 ---
 
